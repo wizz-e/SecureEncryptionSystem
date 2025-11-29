@@ -1,8 +1,3 @@
-"""
-Main Flask application for the Secure File Encryption System
-Developed by: Cadet Ekeh Wisdom Uzoma, NPA/03/03/21/0379
-Nigeria Police Academy, Wudil
-"""
 
 from flask import Flask, render_template, request, session, send_file, flash
 import os
